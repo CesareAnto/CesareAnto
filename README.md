@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CesareAntonioGalati
 - 👀 I’m interested in Data Science & Machine Learnig
-- 🌱 I’m currently learning Chemical Engineer Bachelor Science 
+- 🌱 I’m Degree in Industrial Engineer
 - 💞️ I’m looking to collaborate with Stratup for Data Science Projects
 - 📫 How to reach me Cesaregalati@gmail.com
 
