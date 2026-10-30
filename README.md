@@ -13,7 +13,7 @@
 ![Security](https://img.shields.io/badge/CYBERSECURITY-ENGINEERING-15866B?style=for-the-badge)
 ![AI](https://img.shields.io/badge/AI-FORWARD_DEPLOYED_ENGINEERING-C58B27?style=for-the-badge)
 
-**Palermo, Italy · Open to engineering opportunities**
+**Catania, Italy · Open to engineering opportunities**
 
 </div>
 
