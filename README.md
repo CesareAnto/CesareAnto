@@ -167,38 +167,6 @@ I enjoy understanding complex systems, translating requirements into architectur
 
 ---
 
-## 🚀 Featured Projects
-
-### AEGIS — Healthcare Cyber-Physical Systems
-**In Development**
-
-A systems and cybersecurity architecture laboratory for simulated healthcare infrastructure.
-
-`Systems Engineering` `Cybersecurity` `Networking` `Python`
-
-### Enterprise AI Operations Platform
-**Planned**
-
-An AI application exploring LLM APIs, document retrieval, AI agents and enterprise integration.
-
-`Python` `TypeScript` `FastAPI` `RAG` `AI Agents`
-
-### Secure Systems Engineering Lab
-**Planned**
-
-A case study combining requirements engineering, system architecture, threat modeling and verification.
-
-`SysML` `MBSE` `Security Architecture`
-
-### Scientific Signal Processing Lab
-**Planned**
-
-Computational experiments involving Fourier analysis, Welch PSD estimation, SVD and PCA.
-
-`Python` `MATLAB` `SciPy` `NumPy`
-
----
-
 ## 🎯 Engineering Goals
 
 - Software & Systems Architecture
