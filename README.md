@@ -17,7 +17,7 @@
 ## 👋 About Me
 
 - 🎓 **M.Sc. Aerospace Engineering** — University of Palermo
-- 💼 **3 years of professional experience** in aerospace systems engineering, certification and cybersecurity
+- 💼 **Professional experience** in aerospace systems engineering, certification and cybersecurity
 - 🔐 Experience in airborne cybersecurity, security risk assessment and cyber resilience
 - 🏗️ Interested in software, systems and cybersecurity architecture
 - 🤖 Exploring applied AI, LLM integration and Forward Deployed Engineering
@@ -92,7 +92,7 @@ I enjoy understanding complex systems, translating requirements into architectur
 
 </div>
 
-### 🤖 AI, LLMs & Agentic Systems — Learning Roadmap
+### 🤖 AI, LLMs & Agentic Systems 
 
 <div align="center">
 
@@ -110,7 +110,7 @@ I enjoy understanding complex systems, translating requirements into architectur
 
 </div>
 
-### ⚙️ Frameworks & Libraries — Learning Roadmap
+### ⚙️ Frameworks & Libraries 
 
 <div align="center">
 
@@ -135,7 +135,7 @@ I enjoy understanding complex systems, translating requirements into architectur
 
 </div>
 
-### ☁️ Cloud, Infrastructure & DevOps — Learning Roadmap
+### ☁️ Cloud, Infrastructure & DevOps 
 
 <div align="center">
 
@@ -152,7 +152,7 @@ I enjoy understanding complex systems, translating requirements into architectur
 
 </div>
 
-### 🗄️ Databases — Learning Roadmap
+### 🗄️ Databases
 
 <div align="center">
 
